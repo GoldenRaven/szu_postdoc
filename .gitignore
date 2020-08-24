@@ -2,7 +2,6 @@
 *.pdf
 /auto/
 /beamerthemeDINGO.sty
-/figures/
 /logos/
 /main.aux
 /main.fdb_latexmk
