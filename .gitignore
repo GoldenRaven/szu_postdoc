@@ -1,0 +1,16 @@
+/LICENSE
+*.pdf
+/auto/
+/beamerthemeDINGO.sty
+/figures/
+/logos/
+/main.aux
+/main.fdb_latexmk
+/main.fls
+/main.log
+/main.nav
+/main.out
+/main.snm
+/main.toc
+/missfont.log
+/main.xdv
